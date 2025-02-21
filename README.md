@@ -1,19 +1,9 @@
 # Angular Homes App
-- Install Angular if you don't have it installed
+This program will help you find accommodation for your vacation or permanent residence.
 
-  `npm install -g @angular/cli`
+- Run the json-server
 
-- Clone this branch to your local machine
-
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
-
-- Once the code has been downloaded
-
-  `cd homes-app`
-
-- Install the depencies
-
-  `npm install` 
+  `json-server --watch db.json`
 
 - Run the application 
 
